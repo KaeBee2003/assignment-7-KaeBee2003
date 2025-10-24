@@ -23,7 +23,7 @@ This project implements and compares six different classification models on a mu
 - **Type**: Multi-class classification problem
 - **Files**: `sat.trn` (training), `sat.tst` (testing)
 
-## 🔧 Technologies & Libraries
+## Libraries
 
 ```python
 - pandas
